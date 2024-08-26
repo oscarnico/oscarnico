@@ -6,4 +6,6 @@ Actualmente, estoy ampliando mis habilidades y profundizando en C# con .NET, ya 
 
 Además, tengo experiencia en e-commerce utilizando Liquid en Shopify y he jugueteado con Google Tag Manager (GTM) y Google Analytics.
 
+Entre mis repositorios, quiero destacar gym-backoffice y gym-backend, que fueron mi proyecto individual de fin de máster.
+
 ¡Gracias por visitar mi perfil!
